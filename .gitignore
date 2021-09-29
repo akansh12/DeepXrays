@@ -2,3 +2,5 @@
 Notebooks/Chest-XR-Grand_challenge/covid_baseline.pt
 Notebooks/Chest-XR-Grand_challenge/Pneumonia_model.pt
 Notebooks/Chest-XR-Grand_challenge/baseline_2_model.pt
+Notebooks/Chest-XR-Grand_challenge/Resnet50_100_epochs_final.pt
+Notebooks/Chest-XR-Grand_challenge/Resnet50_100_epochs.pt
