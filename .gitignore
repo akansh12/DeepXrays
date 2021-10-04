@@ -10,3 +10,8 @@ Notebooks/Chest-XR-Grand_challenge/DenseNet_size480.pt
 Notebooks/Chest-XR-Grand_challenge/first_sub_akansh.csv
 Notebooks/Chest-XR-Grand_challenge/efficientNet.pt
 Notebooks/Chest-XR-Grand_challenge/efficientNet_best_acc.pt
+Notebooks/Chest-XR-Grand_challenge/effNet-kaggleModel.pt
+.gitignore
+.gitignore
+Notebooks/Chest-XR-Grand_challenge/DenseNet_size_512_best_acc.pt
+Notebooks/Chest-XR-Grand_challenge/DenseNet_size_512.pt
