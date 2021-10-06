@@ -16,3 +16,5 @@ Notebooks/Chest-XR-Grand_challenge/DenseNet_size_512.pt
 Notebooks/Chest-XR-Grand_challenge/DenseNet_size224.pt
 Notebooks/Chest-XR-Grand_challenge/second_sub_akansh.csv
 Notebooks/Chest-XR-Grand_challenge/DenseNet_size_224_best_acc.pt
+Notebooks/Chest-XR-Grand_challenge/Models/
+Notebooks/Chest-XR-Grand_challenge/Submissions/
