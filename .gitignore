@@ -19,3 +19,6 @@ Notebooks/Chest-XR-Grand_challenge/DenseNet_size_224_best_acc.pt
 Notebooks/Chest-XR-Grand_challenge/Models/
 Notebooks/Chest-XR-Grand_challenge/Submissions/
 Notebooks/Chest-XR-Grand_challenge/ColabPneumoniaModel_scheduler.pt
+Notebooks/Chest-XR-Grand_challenge/Test_probab/
+Notebooks/Chest-XR-Grand_challenge/Train_probab/
+Notebooks/Chest-XR-Grand_challenge/Validation_probab/
