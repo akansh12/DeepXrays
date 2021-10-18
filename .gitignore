@@ -22,3 +22,7 @@ Notebooks/Chest-XR-Grand_challenge/ColabPneumoniaModel_scheduler.pt
 Notebooks/Chest-XR-Grand_challenge/Test_probab/
 Notebooks/Chest-XR-Grand_challenge/Train_probab/
 Notebooks/Chest-XR-Grand_challenge/Validation_probab/
+Notebooks/Chest-XR-Grand_challenge/Fold_setup/test_probab/
+Notebooks/Chest-XR-Grand_challenge/Fold_setup/Train_probab/
+Notebooks/Chest-XR-Grand_challenge/Fold_setup/valid_probab/
+Notebooks/Chest-XR-Grand_challenge/Fold_setup/validate_ensemble_probab/
